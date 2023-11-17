@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fiapflix",
+  "private_key_id": "a63a1a3d809f6211ccf65bc8cd3f25c123d66d89",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC721aJUbzA95W+\n0agOt09frFqRkv81l0wkkYCJF2ihzySqh/AaWML5nTjGHTjljqgo1FIy4OZ4s7k3\nfZDn38d20eEW5vkBnfamOlbyq6kMsoGtgehsJNRiEDKMv+NCPn/bO6PA3VqrfFNq\nJKFiCqVxSMZeQtPU0+WC6V3GiwmYRgvUJ4lU89AMhlVttC9/DKtXhlP9WnvZ3a3W\nWzcU7YqmKdN6iDob+gPYVMdDzmNlyVtWRgtaIFDEjAyK/n7ZjTHnuUjOp0E7Ge7a\n7mrkKR7PES7kwTZHQrtlwlfNLnHFHxQIa+VrtaWaW5HKha5W7vhXxR3Qt7Z1st0P\noLbhLKAPAgMBAAECggEAENlNW6efHFeYcLLxNdCvJ8+Xl/LtPOtDAwyh0Knu0oR3\nr2vd1x8a7bRyQSKh1cUDxBW3AaU2RqEn/ZgfhQyHIVsVqy4wKzr1wlb9MWrAEMl5\n5AwAwqJTAjCduA4F3g0o/orM1yGDXloaSSzb5KU7zXtPf2jTAwW2UhWIOaSCyctn\nBlm0ojQgR6Y8JWDScogwXsyLHEZsoGn88bqEGIgVUufua5tUm0qCDA6Hz0t76ZSn\nfXA2WuYLiupBwyLMgaVDc5XrWbertB8uL83Y8ZeJN74f9FQb1qo6D1fBrCFv49bG\nD6F+6XOkA+WEkB1Y/GB9UXJlzXk0vk/bzwJ8UxacsQKBgQDwmRNpPkzk2GLEhGgg\nNmp94ihJokQJLUWg/Qp2ihExi1xgGvE2AaKfgJgthiCqsvTBoM3RtcYVmxFQX2JN\n7z/nH2aYfYvTXPP+QYl/KwhKGjgw+F//uo6eSiMpBDYL9z4kgZd7L6xVeKl+ZQp1\nmuikZA4JTFW5uOkxpy9c8bthRQKBgQDH4fBeoikIIdMXJ/hcI1M4vTBQhr9N4S2i\n8TSgAcAh7KtsE6VKt7DKOveTeh3Ft8VPfejyhDGIuvPeKuOLklYhBcJQ3byCsdxS\nuRlIFAteME2jUKJcJSIuoneuIvztG+U1R5x4ZCrfFxbV6qr+eT0K9hRQiab27CV4\n78pQX1SvQwKBgQCKCUj5uKSlJwCDfvO+h3nRf09d75rZKQApvQOjvtLeefYlrU92\njLmgiUbF144mYUXLUVbEWmWrP6xPUGo2DG29TGawVldCjLHvzen069t1qFVUwytQ\nrNfmOOKzRZc8hj1A9JjUNCXLY87alV3K23Vd24myC/mi9FPWCPVDfezjgQKBgHJD\nHn16hao4a8tY9gj1yKUuwWfHH6UNjGERMdwmJAdAm930fRDxYQa6Hr0Xmd1k6E5A\n0+GO4CIhfTcLnXgz9zh5alN/7jtoIWLInUMu8jCtvDQX7DhwodG23mOVbLC+uZBz\nl2bbHAbb1BoFRCqkc9jIQ2Smy+NrqyAvM6AuXuKxAoGBAIwRrLw8Q2eB6VpOVIwm\nm6lYlsIJBokhLFKIY1n8mDszTye8CyUeMQR5oe1TVIy4tc7ao9BuQKUEYSyFr/LL\n44dagFUzkwC93v5Jd1js1SForTHpgbjwBXQ0/I0moil4qZfA5rZ6yHwe6ftErg2s\nMn6ha5eL+FFrgC2vgZBGtwJB\n-----END PRIVATE KEY-----\n",
+  "client_email": "read-write-gsheet-node-red@fiapflix.iam.gserviceaccount.com",
+  "client_id": "110874450429689151343",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/read-write-gsheet-node-red%40fiapflix.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
